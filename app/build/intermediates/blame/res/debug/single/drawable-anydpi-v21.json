@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\1691681\\AndroidStudioProjects\\Ebay-P\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_list.xml",
+        "source": "C:\\Users\\1691681\\AndroidStudioProjects\\Ebay-P\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_list.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Desktop\\Ebay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\back_button.xml",
         "source": "C:\\Users\\DELL\\Desktop\\Ebay\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\back_button.xml"
     },
@@ -40,11 +44,31 @@
         "source": "C:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_searchb.xml"
     },
     {
+        "merged": "C:\\Users\\1691681\\AndroidStudioProjects\\Ebay-P\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_mike.xml",
+        "source": "C:\\Users\\1691681\\AndroidStudioProjects\\Ebay-P\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mike.xml"
+    },
+    {
+        "merged": "C:\\Users\\1691681\\AndroidStudioProjects\\Ebay-P\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\search_black.xml",
+        "source": "C:\\Users\\1691681\\AndroidStudioProjects\\Ebay-P\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\search_black.xml"
+    },
+    {
         "merged": "C:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\back_button.xml",
         "source": "C:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\back_button.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Desktop\\Ebay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_shopping.xml",
         "source": "C:\\Users\\DELL\\Desktop\\Ebay\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\1691681\\AndroidStudioProjects\\Ebay-P\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_shopping.xml",
+        "source": "C:\\Users\\1691681\\AndroidStudioProjects\\Ebay-P\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\1691681\\AndroidStudioProjects\\Ebay-P\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\back_button.xml",
+        "source": "C:\\Users\\1691681\\AndroidStudioProjects\\Ebay-P\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\1691681\\AndroidStudioProjects\\Ebay-P\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_searchb.xml",
+        "source": "C:\\Users\\1691681\\AndroidStudioProjects\\Ebay-P\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_searchb.xml"
     }
 ]

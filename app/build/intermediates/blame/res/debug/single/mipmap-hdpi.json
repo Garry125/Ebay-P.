@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\1691681\\AndroidStudioProjects\\Ebay-P\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\1691681\\AndroidStudioProjects\\Ebay-P\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "C:\\Users\\Garry\\Downloads\\Ebay\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }

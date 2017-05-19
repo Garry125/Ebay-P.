@@ -289,8 +289,8 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
-                        android:text="Dyson Official Outlet - v6 Mattress Handheld Vacuum - BRAND NEW -2Year WARRANTY"
-                        android:textColor="@color/black"/>
+                        android:text="Dyson Official Outlet - v6 Mattress Handheld Vacuum - BRAND NEW -5Year WARRANTY"
+                        android:textColor="@color/black" />
 
                     <TextView
                         android:id="@+id/tvPrice1"

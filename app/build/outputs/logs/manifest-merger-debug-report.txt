@@ -1,90 +1,90 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:2:1-36:12
+ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:3:11-36
-		INJECTED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:3:11-36
+		INJECTED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:5:5-34:19
-MERGED from [com.android.support:design:23.0.1] C:\Users\Garry\.android\build-cache\98b159fad963b8e6109b1284e1b13653a08d8631\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Garry\.android\build-cache\94517487d9ddcd2caf2319e36cdbecb2364c592d\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Garry\.android\build-cache\273fcec1190909eb76cbe7943bb90e72dba8a37f\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:cardview-v7:23.0.1] C:\Users\Garry\.android\build-cache\6c5c0550483d05e6f033d78ef1d6234c98e52f8c\output\AndroidManifest.xml:22:5-20
+ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:5:5-34:19
+MERGED from [com.android.support:design:23.0.1] C:\Users\1691681\.android\build-cache\0c295436da20d28b1eeb65756a8a0ecb9fe3c404\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\1691681\.android\build-cache\9962c88119d1d71af58feead9f75868fc4d42d8e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\1691681\.android\build-cache\d6250baa3d3a7b02a60129fbc8bcdc95d02136fa\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.1] C:\Users\1691681\.android\build-cache\2f54d8a1be01d4942777b72029243de75741b34a\output\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:9:9-35
 	android:allowBackup
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:10:9-59
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:10:9-59
 activity#com.kalia.Garry.Bholla.Home
-ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:11:9-17:20
+ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:11:19-61
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:11:19-61
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:12:13-16:29
+ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:13:17-68
+ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:13:17-68
 	android:name
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:13:25-66
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:15:17-76
+ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:15:17-76
 	android:name
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:15:27-74
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:15:27-74
 activity#com.kalia.Garry.Bholla.Detail
-ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:18:9-19:20
+ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:18:9-19:20
 	android:name
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:18:19-63
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:18:19-63
 activity#com.kalia.Garry.Bholla.BookMark
-ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:20:9-21:20
+ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:20:9-21:20
 	android:name
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:20:19-65
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:20:19-65
 activity#com.kalia.Garry.Bholla.Register
-ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:22:9-23:20
+ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:22:9-23:20
 	android:name
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:22:19-65
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:22:19-65
 activity#com.kalia.Garry.Bholla.DysonOutlet
-ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:24:9-25:20
+ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:24:9-25:20
 	android:name
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:24:19-68
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:24:19-68
 activity#com.kalia.Garry.Bholla.DetailsS
-ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:26:9-27:20
+ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:26:9-27:20
 	android:name
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:26:19-65
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:26:19-65
 activity#com.kalia.Garry.Bholla.FeatureDetail
-ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:28:9-29:20
+ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:28:9-29:20
 	android:name
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:28:19-70
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:28:19-70
 activity#com.kalia.Garry.Bholla.Categories
-ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:30:9-31:20
+ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:30:9-31:20
 	android:name
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:30:19-67
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:30:19-67
 activity#com.kalia.Garry.Bholla.Dysons
-ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:32:9-33:20
+ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:32:9-33:20
 	android:name
-		ADDED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml:32:19-63
+		ADDED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml:32:19-63
 uses-sdk
-INJECTED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:recyclerview-v7:23.0.1] C:\Users\Garry\.android\build-cache\080fc295fea935af275876dfdc259e1ce2f4dfee\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:23.0.1] C:\Users\Garry\.android\build-cache\98b159fad963b8e6109b1284e1b13653a08d8631\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Garry\.android\build-cache\94517487d9ddcd2caf2319e36cdbecb2364c592d\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Garry\.android\build-cache\273fcec1190909eb76cbe7943bb90e72dba8a37f\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:23.0.1] C:\Users\Garry\.android\build-cache\6c5c0550483d05e6f033d78ef1d6234c98e52f8c\output\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:recyclerview-v7:23.0.1] C:\Users\1691681\.android\build-cache\83af083bcc5565ae27b7c0edfca252689a1ed674\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.0.1] C:\Users\1691681\.android\build-cache\0c295436da20d28b1eeb65756a8a0ecb9fe3c404\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\1691681\.android\build-cache\9962c88119d1d71af58feead9f75868fc4d42d8e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\1691681\.android\build-cache\d6250baa3d3a7b02a60129fbc8bcdc95d02136fa\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.0.1] C:\Users\1691681\.android\build-cache\2f54d8a1be01d4942777b72029243de75741b34a\output\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		INJECTED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Garry\Downloads\Ebay\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1691681\AndroidStudioProjects\Ebay-P\app\src\main\AndroidManifest.xml
