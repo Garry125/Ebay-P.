@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Garry\.android\build-cache\98b159fad963b8e6109b1284e1b13653a08d8631\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\Garry\Downloads\Ebay\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eccfa2e67d4fdf97545b907cb4a4cf9cd58571a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Garry\Downloads\Ebay\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d4dc48be1ce4dea3c87c918485b66e585682c16">
+        <dex dex="C:\Users\Garry\Downloads\Ebay\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f93065981bc4492d903f3d03036b112accdb26be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Garry\.android\build-cache\080fc295fea935af275876dfdc259e1ce2f4dfee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\Garry\Downloads\Ebay\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6f233989f145dfbc9837d3ce4d7d8f952891ffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Garry\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\Garry\Downloads\Ebay\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.3.2_01adfa628e0c0e05654390295d610a2aa4766a62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Garry\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Garry\Downloads\Ebay\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_b57a3606d7433fdfe746526b452b7e805c1dfab9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Garry\.android\build-cache\273fcec1190909eb76cbe7943bb90e72dba8a37f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Garry\Downloads\Ebay\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5b43baabd52379ca166595a30f16f2f28a86101\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Garry\.android\build-cache\94517487d9ddcd2caf2319e36cdbecb2364c592d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Garry\Downloads\Ebay\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea0893700ec7a8b0e707defe9c6d0cc19b21ea0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Garry\.android\build-cache\6c5c0550483d05e6f033d78ef1d6234c98e52f8c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\Garry\Downloads\Ebay\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d5cb12868f302e522859875e15a793fab19275a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Garry\Downloads\Ebay\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Garry\Downloads\Ebay\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_024b54b611614673f6bd933d305cfef456f7f1ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Garry\.android\build-cache\273fcec1190909eb76cbe7943bb90e72dba8a37f\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Garry\Downloads\Ebay\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_e8d12268bf95af0f4c6072d270e8e87b41462744\classes.dex" />
+    </item>
+
+</items>

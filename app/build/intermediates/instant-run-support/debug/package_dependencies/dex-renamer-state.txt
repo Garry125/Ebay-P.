@@ -1,0 +1,25 @@
+#Fri May 19 06:19:50 EDT 2017
+renamed.7=classes4.dex
+renamed.6=classes6.dex
+renamed.5=classes.dex
+renamed.4=classes3.dex
+renamed.3=classes2.dex
+renamed.2=classes5.dex
+renamed.1=classes7.dex
+renamed.0=classes8.dex
+base.7=C\:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ea0893700ec7a8b0e707defe9c6d0cc19b21ea0b
+base.6=C\:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.1_e8d12268bf95af0f4c6072d270e8e87b41462744
+base.5=C\:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8d5cb12868f302e522859875e15a793fab19275a
+base.4=C\:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e5b43baabd52379ca166595a30f16f2f28a86101
+base.3=C\:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d6f233989f145dfbc9837d3ce4d7d8f952891ffb
+base.2=C\:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_eccfa2e67d4fdf97545b907cb4a4cf9cd58571a8
+base.1=C\:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\picasso-2.3.2_01adfa628e0c0e05654390295d610a2aa4766a62
+base.0=C\:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.1_b57a3606d7433fdfe746526b452b7e805c1dfab9
+file.7=C\:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ea0893700ec7a8b0e707defe9c6d0cc19b21ea0b\\classes.dex
+file.6=C\:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.1_e8d12268bf95af0f4c6072d270e8e87b41462744\\classes.dex
+file.5=C\:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8d5cb12868f302e522859875e15a793fab19275a\\classes.dex
+file.4=C\:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e5b43baabd52379ca166595a30f16f2f28a86101\\classes.dex
+file.3=C\:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d6f233989f145dfbc9837d3ce4d7d8f952891ffb\\classes.dex
+file.2=C\:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_eccfa2e67d4fdf97545b907cb4a4cf9cd58571a8\\classes.dex
+file.1=C\:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\picasso-2.3.2_01adfa628e0c0e05654390295d610a2aa4766a62\\classes.dex
+file.0=C\:\\Users\\Garry\\Downloads\\Ebay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.1_b57a3606d7433fdfe746526b452b7e805c1dfab9\\classes.dex
